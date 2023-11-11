@@ -9,7 +9,7 @@ The idea is to predict car prices using processed data and form models using Lin
 
 ### Getting Started
 1. You can access the raw data [here](https://github.com/ab-aruneswaran/CAR_PRICE_PREDICTION/blob/main/DataSet/CarPred.csv) within this repo.
-2. All of the scripts are being kept [here](https://github.com/ab-aruneswaran/Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb).
+2. All of the scripts are being kept [here](https://github.com/ab-aruneswaran/CAR_PRICE_PREDICTION/blob/main/CAR_PRICE_PREDICTION_MODEL.ipynb).
 
 
 ### Result 
